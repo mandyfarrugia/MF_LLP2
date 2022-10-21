@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Mandy Farrugia\source\repos\MF_LLP2\IfStatements\main.c(13,8): warning C4477: 'scanf' : format string '%d' requires an argument of type 'int *', but variadic argument 1 has type 'int'
+C:\Users\Mandy Farrugia\source\repos\MF_LLP2\IfStatements\main.c(31,2): warning C4013: 'getch' undefined; assuming extern returning int
+  IfStatements.vcxproj -> C:\Users\Mandy Farrugia\source\repos\MF_LLP2\IfStatements\x64\Debug\IfStatements.exe
