@@ -27,6 +27,12 @@ int main(void) {
 		printf("The value of the memory address to which iPtr points is %d.\n", *iPtr);
 	}
 
+	/* calloc() initialises the pointer to a variable to 0. 
+	 * malloc() leaves the pointer to a variable uninitialised, therefore null. */
+
+	//It is important to ALWAYS free pointers when you are done with them, especially when dynamically allocating memory.
+	free(iPtr);
+
 	/* What are the uses of pointers? 
 	 * 1. Memory allocation
 	 * 2. Functions 
