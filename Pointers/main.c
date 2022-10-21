@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <stdlib.h> //stdlib.h standards for Standard C Library and contains the free() function.
 
 int main(void) {
 	int num = 5; //Declare a integer variable named to which you should assign the value 5.
