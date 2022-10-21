@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\Mandy Farrugia\source\repos\MF_LLP2\LogicalOperators\main.c(36,2): warning C4013: 'getch' undefined; assuming extern returning int
+  LogicalOperators.vcxproj -> C:\Users\Mandy Farrugia\source\repos\MF_LLP2\IfStatements\x64\Debug\LogicalOperators.exe

@@ -11,7 +11,7 @@ int main(void) {
 		case 'B':
 			printf("Good job!");
 			break;
-		/* In this case, the value in the grade variable matches case 'C', hence the code within it runs. */
+		//In this case, the value in the grade variable matches case 'C', hence the code within it runs.
 		case 'C':
 			printf("Not bad!");
 			break;
